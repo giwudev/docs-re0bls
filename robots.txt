@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-xiqi2s.cathey.us/sitemap.xml
